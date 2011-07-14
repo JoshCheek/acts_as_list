@@ -1,3 +1,9 @@
+Deprecated
+==========
+
+The purpose of this fork was to add a gemspec so that acts_as_list could be used as a gem through Bundler (for ActiveRecord projects not on Rails). The official team has since recognized the benefit of this, added this functionality, and released it on RubyGems. **So this fork is now deprecated.**
+
+
 ActsAsList
 ==========
 
